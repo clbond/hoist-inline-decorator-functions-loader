@@ -1,6 +1,6 @@
 {
   "name": "hoist-inline-decorator-functions-loader",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "build/loader.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "@types/node": "^8.0.1",
     "typescript": "^2.3.4"
   },
