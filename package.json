@@ -1,6 +1,6 @@
 {
   "name": "hoist-inline-decorator-functions-loader",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "build/loader.js",
   "scripts": {
@@ -12,5 +12,9 @@
   "dependencies": {
     "@types/node": "^8.0.1",
     "typescript": "^2.3.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clbond/hoist-inline-decorator-functions-loader.git"
   }
 }
